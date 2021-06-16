@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubiocode
 - 👀 I’m interested in ... software development 
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...Node.js!
 - 💞️ I’m looking to collaborate on ...projects where i can use my knowledge 
 - 📫 How to reach me ...w.rubidia.rubio@gmail.com
 
