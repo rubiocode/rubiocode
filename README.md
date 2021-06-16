@@ -1,7 +1,9 @@
-### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50px">, I'm Rubidia Rubio, call me Rubi, and I am a software developer student!
+### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50px">, I'm Rubidia Rubio, call me Rubi!
+
+I am a full stack software developer student with years of experience in healthcare; working in healthcare has provided me with valuable skills needed in web development. Skills such as critical thinking, multitasking, attention to detail, and effective communication skills to name a few. I am ready for my career in technology and I cannot wait to see where this path will take me!
 
 - 👩‍💻 I’m currently learning ...Node.js!
-- 💞️ I’m looking to collaborate on ...projects where i can use my recent acquired knowledge and learn more as I go! 
+- 💞️ I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
 
 ---
 ### My GitHub Stats
