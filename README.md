@@ -2,7 +2,7 @@
 
 My name is Rubidia Rubio but I go by Rubi (not to be confused with Ruby the programming language -> got some dad jokes!) I am a full stack software developer student with years of experience in healthcare; working in healthcare has provided me with valuable skills needed in web development. Skills such as critical thinking, multitasking, attention to detail, and effective communication skills to name a few. I am a fast learner and hardworking student! I'm ready for my career in technology and I cannot wait to see where this path will take me!
 
-- 👩‍💻 I’m currently learning ...Node.js!
+- 👩‍💻 I’m currently learning ...React!
 - 💞️ I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
 
 ---
@@ -17,7 +17,8 @@ My name is Rubidia Rubio but I go by Rubi (not to be confused with Ruby the prog
 ---
 
 ### 🧰 My Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">" <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">" <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="Bulma logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySQL logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize logo" width="50" height="50">
+
 
 ---
 
