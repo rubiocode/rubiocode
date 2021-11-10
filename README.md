@@ -10,12 +10,10 @@ My name is Rubidia Rubio but I go by Rubi (not to be confused with Ruby the prog
 ### Contact Me
 
 - 📫 How to reach me:  
-        <a href="mailto:w.rubidia.rubio@gmail.com target="_blank" rel="noopener noreferrer">
-    📧 Email Me!
-        </a>
+        <a href="mailto:w.rubidia.rubio@gmail.com target="_blank" rel="noopener noreferrer">📧 Email Me!</a>
             
      <a href='https://linkedin.com/in/rubidia-rubio-in/' target="_blank" rel="noopener noreferrer">
-        <img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="HTML Logo" width="25"> 
+        <img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="HTML Logo" width="50"> 
      </a>
 
 ---
