@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50px">, welcome to my page!
 
-My name is Rubidia Rubio but I go by Rubi (not to be confused with Ruby the programming language -> got some dad jokes!) I am a results-oriented Full Stack Software Developer with extensive background in healthcare which has provided me with valuable skills such as critical thinking, attention to detail, multitasking, organizational and effective communications skills. I am self motivated and a team player. I create efficient, dynamic, responsive and visually pleasing applications. I am a hardworking employee and a fast learner with a desire to learn even more skills. Let’s build something together!
+Hello! My name is Rubi! I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the University of Denver. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
 
-- 👩‍💻 I’m currently learning ...Java!
+- 👩‍💻 I’m currently learning ...PHP!
 - 💞️ I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
 
 ---
