@@ -1,17 +1,18 @@
-### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50px">, welcome to my page!
+### Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50px">, Welcome to my page!
 
 Hello! My name is Rubi! I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the University of Denver. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
 
-#### <img src="https://purepng.com/public/uploads/large/laptop-symbol-azy.png" alt="Laptop Icon" width="70" height="70"> I’m currently learning ...PHP!
-#### <img src="https://virtuslab.com/wp-content/uploads/2019/09/ico_team.png" alt="Team Icon" width="70" height="70"> I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
+* <img src="https://purepng.com/public/uploads/large/laptop-symbol-azy.png" alt="Laptop Icon" width="70" height="60"> I’m currently learning ...PHP!
+* <img src="https://virtuslab.com/wp-content/uploads/2019/09/ico_team.png" alt="Team Icon" width="70" height="60"> I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
 
 ---
 
-### <img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="50" height="50"> Contact Me
+### <img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="70" height="70"> Contact Me
 
-#### <a href="mailto:w.rubidia.rubio@gmail.com"><img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="Mailbox Icon" width="50" height="50"> </a>Email Me!
+<a href="mailto:w.rubidia.rubio@gmail.com"><img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="Mailbox Icon" width="50" height="50"> </a>Email Me!
     
-#### <a href="https://linkedin.com/in/rubidia-rubio-in/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70"></a> Let's Connect!
+<a href="https://linkedin.com/in/rubidia-rubio-in/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70"></a> Let's Connect
+
 ---
 
 ### My Toolbox
