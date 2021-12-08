@@ -11,7 +11,7 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 
 <a href="mailto:w.rubidia.rubio@gmail.com"><img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="Mailbox Icon" width="50" height="50"> </a>Email Me!
     
-<a href="https://linkedin.com/in/rubidia-rubio-in/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70"></a> Let's Connect
+<a href="https://linkedin.com/in/rubidia-rubio-in/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="50" height="50"></a> Let's Connect
 
 ---
 
