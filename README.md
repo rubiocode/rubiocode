@@ -10,7 +10,8 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 ### Contact Me
 
 - 📫 How to reach me:  
-     * <a href="mailto:w.rubidia.rubio@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email Me!</a>
+[📧](mailto:w.rubidia.rubio@gmail.com)
+     * <a href="mailto:w.rubidia.rubio@gmail.com" target="_blank" rel="noopener noreferrer"> Email Me!</a>
             
      * <a href='https://linkedin.com/in/rubidia-rubio-in/' target="_blank" rel="noopener noreferrer">
         <img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="HTML Logo" width="50"> Let's Connect!</a>
