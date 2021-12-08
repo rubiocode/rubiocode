@@ -9,13 +9,12 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 
 ### <img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="70" height="70"> Let's Connect
   
-    * [<img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="envelope email icon" width="50" height="50">](mailto:w.rubidia.rubio@gmail.com)
-    
-    * [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70">](https://linkedin.com/in/rubidia-rubio-in/)
+    - [<img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="envelope email icon" width="50" height="50">](mailto:w.rubidia.rubio@gmail.com)
+    - [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70">](https://linkedin.com/in/rubidia-rubio-in/)
 
 ---
 
-### 🧰 My Toolbox
+### <img src="https://freepngimg.com/thumb/software_development/7-2-software-development-png-image.png" alt="Programming Toolbox Icon" width="50" height="50"> My Toolbox
         
 ## Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">
