@@ -8,9 +8,10 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 ---
 
 ### <img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="70" height="70"> Let's Connect
-    ## [<img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="envelope email icon" width="50" height="50">(mailto:w.rubidia.rubio@gmail.com)Email Me!
+
+    ## [<img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="envelope email icon" width="50" height="50>](mailto:w.rubidia.rubio@gmail.com)Email Me!
     
-    ## [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70">(https://linkedin.com/in/rubidia-rubio-in/) Add Me!
+    ## [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="70" height="70">](https://linkedin.com/in/rubidia-rubio-in/) Add Me!
 
 ---
 
