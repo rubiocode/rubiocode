@@ -2,19 +2,16 @@
 
 Hello! My name is Rubi! I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the University of Denver. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
 
-- 👩‍💻 I’m currently learning ...PHP!
-- 💞️ I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
+- <img src="https://purepng.com/public/uploads/large/laptop-symbol-azy.png" alt="Laptop Icon" width="50" height="50"> I’m currently learning ...PHP!
+- <img src="https://virtuslab.com/wp-content/uploads/2019/09/ico_team.png" alt="Team Icon" width="50" height="50"> I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
 
 ---
 
 ### Contact Me
 
-- 📫 How to reach me:  
-[<img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" width="50" height="50">](mailto:w.rubidia.rubio@gmail.com)
-     * <a href="mailto:w.rubidia.rubio@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email Me!</a>
-            
-     * <a href='https://linkedin.com/in/rubidia-rubio-in/' target="_blank" rel="noopener noreferrer">
-        <img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="HTML Logo" width="50"> Let's Connect!</a>
+-<img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="50" height="50"> Let's Connect!  
+    * [<img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="envelope email icon" width="50" height="50">](mailto:w.rubidia.rubio@gmail.com)
+    * [<img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="50" width="50" height="50">](https://linkedin.com/in/rubidia-rubio-in/)
 
 ---
 
