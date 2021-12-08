@@ -10,23 +10,16 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 * <img src="https://virtuslab.com/wp-content/uploads/2019/09/ico_team.png" alt="Team Icon" width="70" height="60"> I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
 
 ---
-
-<div align="center">
     
 ## <img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="70" height="70"> Contact Me
-    
-</div>
 
 <a href="mailto:w.rubidia.rubio@gmail.com"><img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="Mailbox Icon" width="50" height="50"> </a>Email Me!
     
 <a href="https://linkedin.com/in/rubidia-rubio-in/"><img src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="LinkedIn Logo" width="50" height="50"></a> Let's Connect
 
 ---
-<div align="center">
-    
+  
 ## My Toolbox
-    
-</div>
 
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">
@@ -42,11 +35,8 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
  
 
 ---
-<div align="center">
-    
+  
 ## My GitHub Stats
-    
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubiocode)](https://github.com/rubiocode/github-readme-stats)
 
