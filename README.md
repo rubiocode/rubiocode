@@ -1,5 +1,7 @@
 <div align="center">
+    
 ## Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="50px">, Welcome to my page!
+    
 </div>
 
 Hello! My name is Rubi! I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the University of Denver. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
@@ -10,7 +12,9 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 ---
 
 <div align="center">
+    
 ## <img src="https://purepng.com/public/uploads/medium/purepng.com-mailboxmailboxletter-boxpostpublic-box-17015279477768hkrs.png" alt="Mailbox Icon" width="70" height="70"> Contact Me
+    
 </div>
 
 <a href="mailto:w.rubidia.rubio@gmail.com"><img src="https://th.bing.com/th/id/OIP.MvrHgBzLaVfvb9k54h2iqwHaHa?pid=ImgDet&rs=1" alt="Mailbox Icon" width="50" height="50"> </a>Email Me!
@@ -39,7 +43,9 @@ Hello! My name is Rubi! I am a creative and results-oriented Software Developer.
 
 ---
 <div align="center">
+    
 ## My GitHub Stats
+    
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubiocode)](https://github.com/rubiocode/github-readme-stats)
