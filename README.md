@@ -4,7 +4,7 @@
     
 </div>
 
-Hello! My name is Rubi! I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the University of Denver. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
+Hello! My name is Rubi! I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the <a href="https://bootcamp.du.edu/coding/curriculum/"> University of Denver </a>. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
 
 * <img src="https://purepng.com/public/uploads/large/laptop-symbol-azy.png" alt="Laptop Icon" width="70" height="60"> I’m currently learning ...PHP!
 * <img src="https://virtuslab.com/wp-content/uploads/2019/09/ico_team.png" alt="Team Icon" width="70" height="60"> I’m looking to collaborate on ...projects where I can use my recent acquired knowledge and learn more as I go! 
