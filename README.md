@@ -4,7 +4,7 @@
     
 </div>
 
-Hello! I am back for 2022 and manifesting some exciting new projects! 
+< h1 > Hello World </ h1>
 
 My name is Rubi and I am a creative and results-oriented Software Developer. I create efficient, dynamic, responsive and visually pleasing applications. Earned a Certificate in Full Stack Software Development from the <a href="https://bootcamp.du.edu/coding/curriculum/"> University of Denver </a>. I am a hardworking employee and a fast learner seeking for opportunities to build responsive applications, grow within a company, and learn even more skills.
 
